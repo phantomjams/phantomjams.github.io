@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Taming Phantom Traffic Jams
+tagline:          'An NSF CPS project'
+description:      'Control of Vehicular Traffic Flow via Low-Density Autonomous Vehicles'
+url:              https://phantomjams.github.io/
+
+author:
+  name:           'Will Barbour'
+  url:            https://barbourww.github.io
+
+paginate:         10
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/phantomjams/phantomjams.github.io
