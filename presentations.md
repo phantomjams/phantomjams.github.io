@@ -78,7 +78,7 @@ title: Presentations
 </ul>
 
 
-<h3>Rafi Stern:</h3>
+<h3>Raphael Stern:</h3>
 <ul>
 	<li>"Impacts of vehicle automation on traffic flow stability." <em>Departmental invited seminar, Department of Controls, University of Grenoble Alpes</em>, Grenoble, France, November 29, 2018.</li>
 	<li>"Traffic control with autonomous vehicles: Theory and experiments." <em>Departmental invited seminar, Department of Civil, Environmental, and Geo- Engineering, University of Minnesota</em>, Minneapolis, MN, March 20, 2018.</li>
