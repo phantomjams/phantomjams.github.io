@@ -130,7 +130,7 @@ title: Project Team
 		<img src="/images/people/RStern.jpeg" alt="" />
 	</span>
 	<div style="text-align: justify; overflow-x: hidden; overflow-y: hidden; min-height: 150px;"> 
-		<a href="https://raphaelstern.com/"><strong>Raphael Stern</strong></a> is a postdoctoral fellow at the Technical University of Munich and will be joining the faculty as an Assistant Professor in the Department of Civil, Environmental, and Geo-Engineering at the University of Minnesota in 2019. Before joining the Technical University of Munich, Dr. Stern was a visiting scholar in the Institute for Software Integrated Systems at Vanderbilt University Dr. Stern received a bachelor of science (2009) in Civil Engineering, a master of science (2015) in Civil Engineering, and a PhD (2018), all from the University of Illinois at Urbana-Champaign. Dr. Stern has also spent time as a visiting scholar at the Institute for Pure and Applied Math at the University of California Los Angeles.
+		<a href="https://raphaelstern.com/"><strong>Raphael Stern</strong></a> is a postdoctoral fellow at the Technical University of Munich and will be joining the faculty as an Assistant Professor in the Department of Civil, Environmental, and Geo-Engineering at the University of Minnesota in 2019. Before joining the Technical University of Munich, Dr. Stern was a visiting scholar in the Institute for Software Integrated Systems at Vanderbilt University Dr. Stern received a bachelor of science (2013) in Civil Engineering, a master of science (2015) in Civil Engineering, and a PhD (2018), all from the University of Illinois at Urbana-Champaign. Dr. Stern has also spent time as a visiting scholar at the Institute for Pure and Applied Math at the University of California Los Angeles.
 	</div>
 </p>
 
