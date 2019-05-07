@@ -8,7 +8,7 @@ permalink:        pretty
 title:            Taming Phantom Traffic Jams
 tagline:          'A National Science Foundation Cyber Physical Systems Project'
 description:      'Phantom Traffic Jams that seemingly occur without cause are due to human driving. Autonomous vehicles might oneday eliminate these jams.'
-url:              https://phantomjams.github.io/
+url:              https://phantomjams.github.io
 
 author:
   name:           'Will Barbour'
