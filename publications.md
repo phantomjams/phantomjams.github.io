@@ -6,6 +6,10 @@ title: Publications
 <h2>Journal publications</h2>
 
 <ol>
+    <li>G. Gunter, D. Gloudemans, R. E. Stern, S. McQuade, R. Bhadani, M. Bunting, M. L. Delle Monache, R. Lysecky, B. Seibold, J. Sprinkle, B. Piccoli, D. B. Work "Are commercially implemented adaptive cruise control systems string stable?" Download: <a href="https://arxiv.org/abs/1905.02108">manuscript</a>.
+  </li>
+  <li>G. Gunter, C. Janssen, W. Barbour, R. E. Stern, D. B. Work. "Model based string stability of adaptive cruise control systems using field data." Download: <a href="https://arxiv.org/abs/1902.04983">manuscript</a>.
+  </li>
 	<li>R. Stern, S. Cui, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, H. Pohlmann, F. Wu, B. Piccoli, B. Seibold, J. Sprinkle, D. Work. “Dissipation of stop-and-go waves via control of autonomous vehicles: Field experiments.” <em>Transportation Research Part C: Emerging Technologies</em>, 89: 205-221, 2018. Download: <a href="https://www.sciencedirect.com/science/article/pii/S0968090X18301517">manuscript</a>.</li>
 	<li>F. Wu, R. Stern, S. Cui, M. L. Delle Monache, R. Bhadani, M. Bunting, M. Churchill, N. Hamilton, R. Haulcy, B. Piccoli, B. Seibold, J. Sprinkle, D. Work. “Tracking vehicle trajectories and fuel rates in oscillatory traffic.” <em>Transportation Research Part C: Emerging Technologies</em>, 2018, to appear. Download: <a href="https://www.dropbox.com/s/mx3qioeg7yxgz6z/Wuetal2017.pdf?dl=0">preprint</a>.</li>
 	<li>R. Stern, Y. Chen, F. Wu, M. Churchill, D. Work. “Reducing Emissions Resulting from Stop-and-Go Traffic Waves using Automated Vehicles.” <em>Transportation Research Part D: Transportation and the Environment</em>, 2019, 67:351-365. Download: <a href="https://doi.org/10.1016/j.trd.2018.12.008">manuscript</a>.</li>
