@@ -21,3 +21,6 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/phantomjams/phantomjams.github.io
+
+plugins:
+  - jekyll-seo-tag
