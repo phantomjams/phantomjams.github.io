@@ -2,7 +2,7 @@
 layout: page
 title: Datasets
 ---
-<strong>15 min on-board radar data
+<strong>15 min on-board radar data</strong>
 
 <strong>The Arizona ACC Experiment 2018</strong>
 G. Gunter, D. Gloudemans, R. E. Stern, S. McQuade, R. Bhadani, M. Bunting, M. L. Delle Monache, B. Seibold, J. Sprinkle, B. Piccoli, and D. B. Work. Experimental data.
