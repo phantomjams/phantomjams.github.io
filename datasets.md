@@ -3,8 +3,8 @@ layout: page
 title: Datasets
 ---
 <strong>The I65 ACC on-board radar data</strong>
-- Y. Wang, G. Gunter, M. Nice and D. Work. Estimating adaptive cruise control model parameters from on-board radar units, 2019.
-- Download: <a href="https://vanderbilt.box.com/s/76m0vmlpzoj2059p047yt0jkx3mtyxdp">https://vanderbilt.box.com/s/76m0vmlpzoj2059p047yt0jkx3mtyxdp</a>
+- Publication: Y. Wang, G. Gunter, M. Nice and D. Work. Estimating adaptive cruise control model parameters from on-board radar units, 2019. Preprint
+- <a href="https://vanderbilt.box.com/s/76m0vmlpzoj2059p047yt0jkx3mtyxdp">Download</a>
 
 
 <strong>The Arizona ACC Experiment 2018</strong>
