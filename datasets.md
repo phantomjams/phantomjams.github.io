@@ -7,7 +7,6 @@ title: Datasets
 - Publication: Y. Wang, G. Gunter, M. Nice and D. Work. Estimating adaptive cruise control model parameters from on-board radar units, 2019. <a href="https://arxiv.org/abs/1911.06454">Preprint</a>
 - <a href="https://vanderbilt.box.com/s/76m0vmlpzoj2059p047yt0jkx3mtyxdp">Download</a>
 
-    <!-- &lt;p&gt;insert code here&lt;/p&gt; -->
 <strong>Two-vehicle ACC driving, Tennessee 2018</strong>
 - Description: A set of car following experiments are conducted to collect data from a 2015 luxury electric vehicle equipped with a commercial adaptive cruise control (ACC) system. Velocity, relative velocity, and spacing data collected during the experiments are used to calibrate an optimal velocity relative velocity car following model for both the minimum and maximum following settings.
 - Publication: G. Gunter, C. Janssen, W. Barbour, R. Stern and D. Work, "Model based string stability of adaptive cruise control systems using field data," in IEEE Transactions on Intelligent Vehicles. doi: 10.1109/TIV.2019.2955368. <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8910461&isnumber=7448921">URL</a>
